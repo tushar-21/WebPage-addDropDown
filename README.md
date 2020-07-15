@@ -1,1 +1,1 @@
-Adding Dropdown Menu in mobile view of a webpage and styling it.
+A responsive Webpage with a dropdown menu in Mobile view and styling its content.
